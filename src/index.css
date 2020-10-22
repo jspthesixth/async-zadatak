@@ -1,0 +1,30 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.added {
+  background-color: green;
+  color: white;
+}
+
+.removed {
+  background-color: red;
+  color: white;
+}
+
+.card-container {
+  width: 100%;
+  text-align: center;
+}
+
+.card {
+  width: 80%;
+  display: inline-block;
+  border: 1px solid black;
+  text-align: center;
+  margin: 5px 0 5px 0;
+}
